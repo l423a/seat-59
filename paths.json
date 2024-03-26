@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/seat-59/:/"
+  "/content/seat-59/:/",
+  "/content/seat-59.resource/authors.json:/authors.json"
   ]
 }
